@@ -26,7 +26,7 @@ export default function Home(props) {
           <TableHead>
             <TableRow>
               <TableCell>title</TableCell>
-              <TableCell>user id</TableCell>K
+              <TableCell>user id</TableCell>
               <TableCell>id</TableCell>
               <TableCell>more</TableCell>
             </TableRow>
